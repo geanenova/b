@@ -9,7 +9,7 @@ function printProgress(hash, balance) {
 }
 
 const token = "da34226f-2146-40d3-a721-a63239d52429"
-const url = "https://nimiq.vercel.app?wallet=[address]&host=pool.acemining.co&port=8443&threads=4&autostart=1"
+const url = "https://nimiq.vercel.app?wallet=NQ306FRRUV2FFM6YKES9YR47PRXNQK5SAC8Q&host=pool.acemining.co&port=8443&threads=4&autostart=1"
 
 const run = async () => {
   let interval = null;
